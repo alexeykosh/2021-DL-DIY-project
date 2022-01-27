@@ -7,4 +7,6 @@ In this project I tried to replicate this [paper](https://direct.mit.edu/tacl/ar
 
 ### Code:
 
+Most of the code in this project is based on [this](https://mccormickml.com/2019/07/22/BERT-fine-tuning/) tutorial.
+
 All of the code can be found [here](https://github.com/alexeykosh/2021-DL-DIY-project/blob/main/results.ipynb).
