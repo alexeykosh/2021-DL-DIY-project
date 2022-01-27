@@ -1,4 +1,5 @@
-## Deep Learning DIY project: Neural Network Acceptability Judgments
+## Deep Learning DIY project: Neural Network  Acceptability Judgments replication with transformers
+#### *Alexey Koshevoy*
 
 ### Description:
 
