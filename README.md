@@ -7,4 +7,4 @@ In this project I tried to replicate this [paper](https://direct.mit.edu/tacl/ar
 
 ### Code:
 
-All of the code can be found (here)[https://github.com/alexeykosh/2021-DL-DIY-project/blob/main/results.ipynb].
+All of the code can be found [here](https://github.com/alexeykosh/2021-DL-DIY-project/blob/main/results.ipynb).
